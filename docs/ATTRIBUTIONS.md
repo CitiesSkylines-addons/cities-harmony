@@ -1,0 +1,18 @@
+# Attribution and upstream references
+
+This file records references found in the local files or verified as public upstream references. A reference is not a claim of ownership or a license grant.
+
+## Public upstream references
+
+- [boformer/CitiesHarmony](https://github.com/boformer/CitiesHarmony) — upstream reference also cited by the local Cheat Menu README.
+- [Harmony patching library](https://github.com/pardeike/Harmony) — dependency described by the upstream CitiesHarmony README.
+
+## What was found locally
+
+- No local git history, fork metadata, or authoritative license file was found in the installation folder.
+- The local folder inventory is available at [LOCAL-INVENTORY.md](LOCAL-INVENTORY.md).
+- Where no URL is listed above, the upstream project and license still need to be confirmed before code or assets are reused.
+
+## Redistribution status
+
+This repository is documentation-only for the third-party folder. It does not grant permission to copy, modify, or redistribute the original binaries.
